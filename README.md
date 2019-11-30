@@ -1,7 +1,10 @@
 # react-native-assignment
 React Native Trip App, using Expo v35, react-navigation v4.0.10, react-redux v7.1.3 and axios v0.19.0
 
-This app runs on Expo v35.0.0 and React native v0.59.
+This app runs on Expo v35.0.0 and React native v0.59. App's features:
+
+* Pull to refresh trips
+* View trip's details
 
 Setup Expo v35:
 
@@ -17,7 +20,7 @@ cd react-native-assignment && npm install
 expo start
 ```
 
-Expo server will now turn on
+Expo server will now turn on like below
 
 ![Screenshot](expo-server.png)
 
