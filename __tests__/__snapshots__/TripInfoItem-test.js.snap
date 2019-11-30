@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TripInfoItem Rendering should match to snapshot 1`] = `
+<View
+  accessible={true}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "white",
+        "borderRadius": 4,
+        "flexDirection": "row",
+        "marginBottom": 10,
+        "marginHorizontal": 7,
+        "opacity": 0.9,
+        "padding": 10,
+        "paddingBottom": 12,
+      },
+      Object {},
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "flex": 2,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "black",
+          "fontSize": 12,
+        }
+      }
+    >
+      TripId: 17094
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "black",
+          "fontSize": 12,
+        }
+      }
+    >
+      Distance: 16
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "black",
+          "fontSize": 12,
+        }
+      }
+    >
+      Duration: 1956
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 3,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "black",
+          "fontSize": 12,
+        }
+      }
+    >
+      Start time: 7:50, 4/7/2017
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "black",
+          "fontSize": 12,
+        }
+      }
+    >
+      End time: 8:23, 4/7/2017
+    </Text>
+  </View>
+</View>
+`;
