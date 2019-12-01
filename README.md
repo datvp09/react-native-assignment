@@ -6,6 +6,12 @@ This app runs on Expo v35.0.0 and React native v0.59. App's features:
 * Pull to refresh trips
 * View trip's details
 
+Run app on Expo Client
+
+```
+https://expo.io/@datvp/react-native-assignment
+```
+
 Setup Expo v35:
 
 [Installation link](https://docs.expo.io/versions/v35.0.0/get-started/installation/
